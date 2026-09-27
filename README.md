@@ -2,9 +2,7 @@
 
 A tiny neon browser game. Hop between planets, catch comets, reach the beacon.
 
-**[Play Now](https://biggyclops.github.io/orbit-hop/)**
-
-![Orbit Hop Screenshot](screenshot.png)
+**[Play Now](https://biggyclops.github.io/orbit-hop/)** *(requires GitHub Pages to be enabled)*
 
 ## How to Play
 
